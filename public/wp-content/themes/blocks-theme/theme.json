@@ -1,0 +1,84 @@
+{
+    "version": 2,
+    "settings": {
+		"layout": {
+			"contentWidth": "800px",
+			"wideSize": "1000px"
+		},
+        "spacing": {
+            "margin": true,
+            "padding": true,
+            "units": [ "px", "em", "rem", "vh", "vw", "%" ]
+        },
+		"color": {
+			"custom": true,
+			"customDuotone": false,
+			"customGradient": true,
+			"defaultGradients": false,
+			"defaultPalette": false,
+			"duotone": [],
+			"gradients": [
+				{
+					"slug": "green-to-yellow",
+					"gradient": "linear-gradient(135deg, #3ce406 0%, #d6e029 100%)",
+					"name": "Green to Yellow"
+				},
+				{
+					"slug": "red-to-blue",
+					"gradient": "linear-gradient(135deg, #e4064d 0%, #2c59ee 100%)",
+					"name": "Red to Blue"
+				}
+			],
+			"palette": [
+				{
+					"slug": "strong-magenta",
+					"color": "#a156b4",
+					"name": "strong magenta"
+				},
+				{
+					"slug": "very-light-gray",
+					"color": "#eee",
+					"name": "very light gray"
+				}
+			]
+		},
+        "typography": {
+			"dropCap": false,
+			"customFontSize": false,
+			"letterSpacing": false,
+			"lineHeight": false,
+			"fontFamilies": [
+				{
+					"fontFamily": "Roboto Flex, sans-serif",
+					"slug": "regular",
+					"name": "Roboto Flex"
+				},
+				{
+					"fontFamily": "quincy-cf, serif",
+					"slug": "heading",
+					"name": "Quincy CF"
+				}
+			],
+			"fontSizes": [
+				{
+					"name": "Small",
+					"size": "12px",
+					"slug": "small"
+				},
+				{
+					"name": "Medium",
+					"size": "16px",
+					"slug": "medium"
+				},
+				{
+					"name": "Large",
+					"size": "36px",
+					"slug": "large"
+				}
+			],
+			"fontWeight": false,
+			"fontStyle": false,
+			"textTransform": false
+		}
+	}
+}
