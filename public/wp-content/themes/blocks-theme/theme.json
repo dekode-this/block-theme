@@ -2,8 +2,8 @@
     "version": 2,
     "settings": {
 		"layout": {
-			"contentWidth": "800px",
-			"wideSize": "1000px"
+			"contentSize": "800px",
+			"wideSize":"1000px"
 		},
         "spacing": {
             "margin": true,

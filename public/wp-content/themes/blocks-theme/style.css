@@ -71,10 +71,10 @@ html {
 	-webkit-text-size-adjust: 100%;
 }
 
-
 .site {
-	max-width:800px;
-	margin:0 auto;
+	max-width: 800px;
+	margin-left:auto;
+	margin-right:auto;
 }
 
 .alignwide {
